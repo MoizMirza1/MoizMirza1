@@ -16,9 +16,8 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: MoizMirza1
-          svg_fill: "#00F72D"
-          svg_stroke: "#000000"
-          output: "snake.svg"  # Simple filename
+          svg_out_path: snake.svg  # Correct parameter name
+          gif: false  # We only want SVG
           
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
