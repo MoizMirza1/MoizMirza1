@@ -93,6 +93,5 @@
   <img src="https://komarev.com/ghpvc/?username=MoizMirza1&label=Profile%20views&color=0e75b6&style=flat" alt="MoizMirza1" /> 
   <a href="https://github.com/MoizMirza1?tab=stars">
     <img src="https://img.shields.io/github/stars/MoizMirza1?label=Stars" alt="Total Stars">
-    <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
   </a>
 </p>
