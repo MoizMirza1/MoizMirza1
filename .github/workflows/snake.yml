@@ -15,13 +15,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Generate Snake
         uses: Platane/snk@master
         with:
           github_user_name: MoizMirza1
-          svg_out_path: snake.svg
-          gif: false
+          outputs: |
+            ./snake.svg
 
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
