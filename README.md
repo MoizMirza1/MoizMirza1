@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo" style="background:white;padding:2px;border-radius:4px;"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   <img width="12" />
@@ -34,7 +34,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" style="filter:invert(1);"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
@@ -54,7 +54,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoizMirza1&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoizMirza1&theme=radical" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=MoizMirza1&theme=radical" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoizMirza1&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
@@ -92,8 +92,8 @@
 
 ---
 
-### 🐍 Snake Eating My Contributions
-![Snake animation](https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/snake.svg)
+### 🐍 Snake Game (GitHub Contributions)
+![Snake Game](https://github.com/MoizMirza1/MoizMirza1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
