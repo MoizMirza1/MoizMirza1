@@ -1,10 +1,14 @@
 name: Generate Snake
+
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
   push:
     branches: [main]
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -16,9 +20,9 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: MoizMirza1
-          svg_out_path: snake.svg  # Correct parameter name
-          gif: false  # We only want SVG
-          
+          svg_out_path: snake.svg
+          gif: false
+
       - name: Deploy to Output Branch
         uses: peaceiris/actions-gh-pages@v3
         with:
