@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @MoizMirza1
-- 👀 I’m interested in Reactjs,javascript,Css,Bootstrap,TailwindCss,HTML
-- 🌱 I’m currently learning MERN stack Development
-- 💞️ I’m looking to collaborate on any Organization that help me to polish my skill
-- 📫 How to reach me moizmirza212@gmail.com
-
-<!---
-MoizMirza1/MoizMirza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> <a href="https://github.com/MoizMirza1"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=500&lines=console.log(%22Hello%2C%20World!%22);Full-Stack+Web+Dev;MERN+%7C+Next.js+%7C+TypeScript;Turning+Ideas+Into+Reality" alt="Typing Animation" /> </a> </p>
