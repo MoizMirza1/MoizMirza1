@@ -87,6 +87,7 @@
 ### 🐍 Snake Game (GitHub Contributions)
 ![Snake animation](https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/snake.svg)
 
+
 ---
 
 <p align="center"> 
