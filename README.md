@@ -85,7 +85,7 @@
 ---
 
 ### 🐍 Snake Game (GitHub Contributions)
-![Snake Game](https://github.com/MoizMirza1/MoizMirza1/blob/output/github-contribution-grid-snake.svg)
+![Snake Game](https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/github-contribution-grid-snake.svg)
 
 ---
 
