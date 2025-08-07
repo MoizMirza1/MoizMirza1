@@ -59,13 +59,6 @@
 
 ---
 
-### 🚀 Currently Learning
-- **Advanced Next.js (Server Actions, Optimizations)**  
-- **Microservices Architecture**  
-- **AWS & DevOps Basics**  
-
----
-
 ### 🤝 Let’s Connect!
 <div align="left">
   <a href="mailto:moizmirza212@gmail.com">
