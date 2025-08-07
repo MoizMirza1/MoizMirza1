@@ -54,7 +54,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MoizMirza1&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=MoizMirza1&theme=radical" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoizMirza1&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
