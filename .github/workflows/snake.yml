@@ -1,20 +1,30 @@
 name: Generate Snake
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
+  push:
+    branches: [main]
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
+      - uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: MoizMirza1
-          svg_fill: "#00F72D"  # Match your theme color
-      - uses: crazy-max/ghaction-github-pages@v2
+          svg_fill: "#00F72D"
+          svg_stroke: "#000000"
+          output: "snake.svg"  # Simple filename
+          
+      - name: Deploy to Output Branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: .
+          publish_branch: output
+          keep_files: true
+          allow_empty_commit: true
