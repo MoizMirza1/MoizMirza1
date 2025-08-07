@@ -69,8 +69,8 @@
 
 ---
 
-### 🎵 Coding Vibes
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/yourusername)
+### 🎥 Coding Vibes
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@yourchannelname)
 
 ---
 
