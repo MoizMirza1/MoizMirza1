@@ -1,5 +1,5 @@
 <h1 align="center">🔥 Moiz Mirza | MERN + Next.js Dev</h1>
-<h3 align="center">⚡ Code Artisan | UI/UX Enthusiast | Coffee-Driven Developer</h3>
+<h3 align="center">⚡ Code Artisan | Web Designer | Coffee-Driven Developer</h3>
 
 <p align="center">
   <a href="https://github.com/MoizMirza1">
