@@ -2,7 +2,7 @@ name: Generate Pac-Man Animation
 
 on:
   schedule:
-    # Runs every 24 hours
+    # Runs every 24 hours at midnight UTC
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -19,6 +19,9 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
       - name: Push Pac-Man to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
