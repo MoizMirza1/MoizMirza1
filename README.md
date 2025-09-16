@@ -57,6 +57,13 @@
 
 ---
 
+### 🐍 Snake Game (GitHub Contributions)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
 ### 🤝 Let’s Connect!
 <div align="left">
   <a href="mailto:moizmirza212@gmail.com">
@@ -76,12 +83,6 @@
 
 ### ⚡ Fun Fact
 > *"I debug my life with `console.log()` statements."* 😆
-
----
-
-### 🐍 Snake Game (GitHub Contributions)
-![Snake animation](https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/snake.svg)
-
 
 ---
 
