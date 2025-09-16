@@ -57,13 +57,6 @@
 
 ---
 
-### 🐍 Snake Game (GitHub Contributions)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" />
-</div>
-
----
 
 ### 👾 Pac-Man Game (GitHub Contributions)
 <div align="center">
