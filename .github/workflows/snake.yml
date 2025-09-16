@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
-  schedule: # Runs every 12 hours
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
   workflow_dispatch: # Allows manual run
 
 jobs:
@@ -14,18 +14,11 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: MoizMirza1
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Default snake
             dist/github-contribution-grid-snake.svg
-
-            # Tokyonight styled snake
             dist/github-contribution-grid-snake-tokyonight.svg?color_snake=auto&color_dots=#161620,#414868,#70a598,#7aa2f7,#bb9af7
-
-            # Dark mode snake
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-            # Ocean GIF
             dist/ocean.gif?color_snake=blue&color_dots=#aadbb7,#8eb695,#6a926c,#466d4a,#224928
 
       - name: Push Snake to Output Branch
