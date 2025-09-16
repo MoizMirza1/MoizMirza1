@@ -65,6 +65,13 @@
 
 ---
 
+### 👾 Pac-Man Game (GitHub Contributions)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+</div>
+
+---
+
 ### 🤝 Let’s Connect!
 <div align="left">
   <a href="mailto:moizmirza212@gmail.com">
