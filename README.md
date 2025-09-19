@@ -58,14 +58,6 @@
 ---
 
 
-### 👾 Pac-Man Game (GitHub Contributions)
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/pacman-contribution-graph-dark.svg" alt="Pac-Man contribution graph dark" />
-</div>
-
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" />
 </div>
