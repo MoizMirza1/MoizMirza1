@@ -66,6 +66,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoizMirza1/MoizMirza1/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" />
+</div>
+
+
+---
+
+
 ### 🤝 Let’s Connect!
 <div align="left">
   <a href="mailto:moizmirza212@gmail.com">
